@@ -1,1 +1,1 @@
-# Repository-name-instagram-automation-saas
+# instagram-automation-saas
